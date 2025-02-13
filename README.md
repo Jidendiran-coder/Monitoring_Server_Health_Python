@@ -5,16 +5,16 @@ A Python script that continuously monitors CPU usage and alerts the user when it
 
 ## 📖 Table of Contents
 1. [⚙️ Prerequisites](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#%EF%B8%8F-prerequisites)
-2. [📥 Installation Instructions](#installation-instructions)
-3. [📝 Usage Instructions](#usage-instructions)
-4. [🔧 Configuration](#configuration)
-5. [🚀 CI/CD Pipeline Details](#cicd-pipeline-details)
-6. [🔒 Security Best Practices](#security-best-practices)
-7. [🐞 Troubleshooting](#troubleshooting)
-8. [🤝 Contribution Guidelines](#contribution-guidelines)
-9. [📜 License](#license)
-10. [📸 Screenshots & Architecture Diagrams](#screenshots--architecture-diagrams)
-11. [📅 Changelog](#changelog)
+2. [📥 Installation Instructions](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-installation-instructions)
+3. [📝 Usage Instructions](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-usage-instructions)
+4. [🔧 Configuration](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-configuration)
+5. [🚀 CI/CD Pipeline Details](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-cicd-pipeline-details)
+6. [🔒 Security Best Practices](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-security-best-practices)
+7. [🐞 Troubleshooting](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-troubleshooting)
+8. [🤝 Contribution Guidelines](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-contribution-guidelines)
+9. [📜 License](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-license)
+10. [📸 Screenshots & Architecture Diagrams](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-screenshots--architecture-diagrams)
+11. [📅 Changelog](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#-changelog)
 
 ## ⚙️ Prerequisites
 - 🐍 Python 3.x installed on your system
