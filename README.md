@@ -4,7 +4,7 @@
 A Python script that continuously monitors CPU usage and alerts the user when it exceeds a predefined threshold. This can help track system performance and prevent overheating or excessive load on the processor.
 
 ## 📖 Table of Contents
-1. [⚙️ Prerequisites](#prerequisites)
+1. [⚙️ Prerequisites](https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python#%EF%B8%8F-prerequisites)
 2. [📥 Installation Instructions](#installation-instructions)
 3. [📝 Usage Instructions](#usage-instructions)
 4. [🔧 Configuration](#configuration)
