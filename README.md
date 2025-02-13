@@ -69,7 +69,8 @@ This project is licensed under the MIT License.
 ## 📸 Output Screenshot
 ![image](https://github.com/user-attachments/assets/8af8c8f0-857d-4092-acb2-03193cab1749)
 
-While Interupted:
+###While Interupted:
+
 ![image](https://github.com/user-attachments/assets/b4b6bd95-b5e0-45ad-b2b4-8de781c6286b)
 
 ## 📅 Changelog
