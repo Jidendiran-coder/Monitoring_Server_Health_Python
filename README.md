@@ -66,8 +66,8 @@ A Python script that continuously monitors CPU usage and alerts the user when it
 ## 📜 License
 This project is licensed under the MIT License.
 
-## 📸 Screenshots & Architecture Diagrams
-![CPU Usage Monitor Screenshot](screenshot.png)
+## 📸 Output Screenshot
+![image](https://github.com/user-attachments/assets/8af8c8f0-857d-4092-acb2-03193cab1749)
 
 ## 📅 Changelog
 - **v1.0** - Initial release with basic CPU usage monitoring.
