@@ -61,6 +61,7 @@ A Python script that continuously monitors CPU usage and alerts the user when it
 - Ensure Python is properly installed and added to the system PATH.
 
 ## 🤝 Contribution Guidelines
+- ⭐ Star this repository
 - Fork the repository and submit a pull request with improvements.
 
 ## 📜 License
