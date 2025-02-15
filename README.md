@@ -23,11 +23,11 @@ A Python script that continuously monitors CPU usage and alerts the user when it
 ## 📥 Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cpu-usage-monitor.git
+   git clone https://github.com/Jidendiran-coder/Monitoring_Server_Health_Python.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cpu-usage-monitor
+   cd Monitoring_Server_Health_Python
    ```
 3. Install dependencies:
    ```bash
@@ -37,7 +37,7 @@ A Python script that continuously monitors CPU usage and alerts the user when it
 ## 📝 Usage Instructions
 1. Run the script:
    ```bash
-   python cpu_monitor.py
+   python Monitoring_Health.py
    ```
 2. The script will start monitoring CPU usage in real-time.
 3. If CPU usage exceeds the threshold (default: 80%), an alert message will be displayed.
